@@ -9,8 +9,8 @@ In the Jupyter notebook "enc_dec_sim_search_simple.ipynb" you can find the basic
 
 ##### Results
 The "eca_relations_database.json" file contain the json database of all the 548 relations we found for elementary cellular automata. Suppose we have a relation showing that $\mathrm{ca}_1$ can be simulated by $\mathrm{ca}_2$ with an encoder of size $k$. The relation is stored in the database in the following manner:
-it is identified by the key "$\mathrm{ca}_1$_$\mathrm{ca}_2$"
+it is identified by the key " $\mathrm{ca}_1$_$\mathrm{ca}_2$"
 and its value is:
 {"cell_size": $k$,
- "enc": [$enc(0)$, $enc(1)$],
- "dec": [$dec^{-1}(0)$, $dec^{-1}(1)$]}
+ "enc": [ $enc(0)$, $enc(1)$],
+ "dec": [ $dec^{-1}(0)$, $dec^{-1}(1)$]}
