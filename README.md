@@ -1,4 +1,4 @@
-The data and code in this repository are supplementary materials to the paper
+The data and code in this repository are supplementary materials to the (unpublished) paper submitted to *Complexity*
 ### Introducing Encoder-Decoder Relation between Cellular Automata to Uncover their Computational Structure
 by Barbora Hudcová, Tomáš Mikolov, and Stefano Nichele
 
